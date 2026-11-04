@@ -22,14 +22,14 @@
     <meta name="msapplication-TileImage" content="{{ asset('assets/landing/images/favicon/ms-icon-144x144.png') }}">
     <meta name="theme-color" content="#ffffff">
     
-    <!-- Font Awesome link -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    
-    <!-- CSS here -->
-    <link rel="stylesheet" href="{{ asset('assets/landing/css/animate.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/landing/bootstrap/bootstrap.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/landing/css/superclasses.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/landing/css/owl.carousel.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/landing/css/owl.theme.default.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/landing/css/custom.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/landing/css/responsive.css') }}">
+    <!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<!-- CSS -->
+<link rel="stylesheet" href="{{ asset('landing/assets/css/animate.css') }}">
+<link rel="stylesheet" href="{{ asset('landing/assets/bootstrap/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ asset('landing/assets/css/superclasses.css') }}">
+<link rel="stylesheet" href="{{ asset('landing/assets/css/owl.carousel.min.css') }}">
+<link rel="stylesheet" href="{{ asset('landing/assets/css/owl.theme.default.min.css') }}">
+<link rel="stylesheet" href="{{ asset('landing/assets/css/custom.css') }}">
+<link rel="stylesheet" href="{{ asset('landing/assets/css/responsive.css') }}">
